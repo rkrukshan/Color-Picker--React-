@@ -1,0 +1,43 @@
+body{
+  background-color:rgb(48, 49, 49);
+}
+.cp-container {
+  text-align: center;
+  display: grid;
+  align-items:center;
+  justify-content: center;
+}
+.heading {
+  color: rgb(10, 25, 95);
+  font-size: 3em;
+}
+.color-pad {
+  margin-top: 5em;
+  margin-left: 11.75em;
+  margin-bottom: 5em;
+  height: 250px;
+  width: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border:2px solid rgb(255, 255, 255);
+  border-radius: 50%;
+  box-shadow:0px 5px 25px rgb(255, 255, 255);
+  transition: .25s;
+}
+.selectedlabel
+{
+  font-size: larger;
+  font-weight: bolder;
+  color:rgb(1, 24, 81);
+}
+.selectlabel{
+font-size: 1.5em;
+}
+.colorpicker{
+  width: 9em;
+  height: 41px;
+  border-radius:15px;
+  box-shadow: 3px 3px 25px rgb(65, 127, 234);
+  transition: 11s;
+}

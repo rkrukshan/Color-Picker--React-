@@ -1,0 +1,14 @@
+.cp-container{
+  text-align: center;
+  padding: 9em;
+}
+.heading{
+  color:rgb(10, 25, 95);
+}
+.color-pad
+{
+  margin-left: 9em;
+  height: 250px;
+  width:250px;
+  text-align: center;
+}
